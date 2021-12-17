@@ -1,0 +1,51 @@
+2021-12-17 13:14:54 INFO  Hooks:18 -  (^_^) START OF TEST EXECUTION (*_*)
+2021-12-17 13:14:57 INFO  Step_Definitions:26 - <<<<<<<<<< This is home page  >>>>>>>>>>
+2021-12-17 13:15:00 INFO  Step_Definitions:37 - <<<<<<<<<< Verify Header  >>>>>>>>>>
+2021-12-17 13:15:01 INFO  Hooks:18 -  (^_^) START OF TEST EXECUTION (*_*)
+2021-12-17 13:15:03 INFO  Step_Definitions:26 - <<<<<<<<<< This is home page  >>>>>>>>>>
+2021-12-17 13:15:04 INFO  Step_Definitions:46 - <<<<<<<<<< Toy price  >>>>>>>>>>
+2021-12-17 13:15:04 INFO  Hooks:18 -  (^_^) START OF TEST EXECUTION (*_*)
+2021-12-17 13:15:06 INFO  Step_Definitions:26 - <<<<<<<<<< This is home page  >>>>>>>>>>
+2021-12-17 13:15:11 INFO  Step_Definitions:55 - <<<<<<<<<< Verify URL  >>>>>>>>>>
+2021-12-17 13:15:12 INFO  Hooks:18 -  (^_^) START OF TEST EXECUTION (*_*)
+2021-12-17 13:15:15 INFO  Step_Definitions:26 - <<<<<<<<<< This is home page  >>>>>>>>>>
+2021-12-17 13:15:17 INFO  Step_Definitions:69 - <<<<<<<<<< Quantity of toy  >>>>>>>>>>
+2021-12-17 13:15:23 INFO  Step_Definitions:78 - <<<<<<<<<< buy now   >>>>>>>>>>
+2021-12-17 13:15:26 INFO  Step_Definitions:91 - <<<<<<<<<< visa card information  >>>>>>>>>>
+2021-12-17 13:15:28 INFO  Step_Definitions:98 - <<<<<<<<<< pay and buy  >>>>>>>>>>
+2021-12-17 13:15:28 INFO  Step_Definitions:105 - <<<<<<<<<< verify of payment  >>>>>>>>>>
+2021-12-17 13:15:28 INFO  Hooks:18 -  (^_^) START OF TEST EXECUTION (*_*)
+2021-12-17 13:15:31 INFO  Step_Definitions:26 - <<<<<<<<<< This is home page  >>>>>>>>>>
+2021-12-17 13:15:33 INFO  Step_Definitions:69 - <<<<<<<<<< Quantity of toy  >>>>>>>>>>
+2021-12-17 13:15:39 INFO  Step_Definitions:78 - <<<<<<<<<< buy now   >>>>>>>>>>
+2021-12-17 13:15:42 INFO  Step_Definitions:91 - <<<<<<<<<< visa card information  >>>>>>>>>>
+2021-12-17 13:15:44 INFO  Step_Definitions:98 - <<<<<<<<<< pay and buy  >>>>>>>>>>
+2021-12-17 13:15:44 INFO  Step_Definitions:105 - <<<<<<<<<< verify of payment  >>>>>>>>>>
+2021-12-17 13:15:45 INFO  Hooks:18 -  (^_^) START OF TEST EXECUTION (*_*)
+2021-12-17 13:15:47 INFO  Step_Definitions:26 - <<<<<<<<<< This is home page  >>>>>>>>>>
+2021-12-17 13:15:49 INFO  Step_Definitions:69 - <<<<<<<<<< Quantity of toy  >>>>>>>>>>
+2021-12-17 13:15:55 INFO  Step_Definitions:78 - <<<<<<<<<< buy now   >>>>>>>>>>
+2021-12-17 13:15:59 INFO  Step_Definitions:91 - <<<<<<<<<< visa card information  >>>>>>>>>>
+2021-12-17 13:16:00 INFO  Step_Definitions:98 - <<<<<<<<<< pay and buy  >>>>>>>>>>
+2021-12-17 13:16:00 INFO  Step_Definitions:105 - <<<<<<<<<< verify of payment  >>>>>>>>>>
+2021-12-17 13:16:01 INFO  Hooks:18 -  (^_^) START OF TEST EXECUTION (*_*)
+2021-12-17 13:16:03 INFO  Step_Definitions:26 - <<<<<<<<<< This is home page  >>>>>>>>>>
+2021-12-17 13:16:05 INFO  Step_Definitions:69 - <<<<<<<<<< Quantity of toy  >>>>>>>>>>
+2021-12-17 13:16:11 INFO  Step_Definitions:78 - <<<<<<<<<< buy now   >>>>>>>>>>
+2021-12-17 13:16:15 INFO  Step_Definitions:91 - <<<<<<<<<< visa card information  >>>>>>>>>>
+2021-12-17 13:16:16 INFO  Step_Definitions:98 - <<<<<<<<<< pay and buy  >>>>>>>>>>
+2021-12-17 13:16:16 INFO  Step_Definitions:105 - <<<<<<<<<< verify of payment  >>>>>>>>>>
+2021-12-17 13:16:17 INFO  Hooks:18 -  (^_^) START OF TEST EXECUTION (*_*)
+2021-12-17 13:16:19 INFO  Step_Definitions:26 - <<<<<<<<<< This is home page  >>>>>>>>>>
+2021-12-17 13:16:21 INFO  Step_Definitions:69 - <<<<<<<<<< Quantity of toy  >>>>>>>>>>
+2021-12-17 13:16:28 INFO  Step_Definitions:78 - <<<<<<<<<< buy now   >>>>>>>>>>
+2021-12-17 13:16:31 INFO  Step_Definitions:91 - <<<<<<<<<< visa card information  >>>>>>>>>>
+2021-12-17 13:16:32 INFO  Step_Definitions:98 - <<<<<<<<<< pay and buy  >>>>>>>>>>
+2021-12-17 13:16:32 INFO  Step_Definitions:105 - <<<<<<<<<< verify of payment  >>>>>>>>>>
+2021-12-17 13:16:33 INFO  Hooks:18 -  (^_^) START OF TEST EXECUTION (*_*)
+2021-12-17 13:16:35 INFO  Step_Definitions:26 - <<<<<<<<<< This is home page  >>>>>>>>>>
+2021-12-17 13:16:37 INFO  Step_Definitions:69 - <<<<<<<<<< Quantity of toy  >>>>>>>>>>
+2021-12-17 13:16:44 INFO  Step_Definitions:78 - <<<<<<<<<< buy now   >>>>>>>>>>
+2021-12-17 13:16:47 INFO  Step_Definitions:91 - <<<<<<<<<< visa card information  >>>>>>>>>>
+2021-12-17 13:16:48 INFO  Step_Definitions:98 - <<<<<<<<<< pay and buy  >>>>>>>>>>
+2021-12-17 13:16:48 INFO  Step_Definitions:105 - <<<<<<<<<< verify of payment  >>>>>>>>>>
